@@ -1,0 +1,16 @@
+{
+  "token": "NjkzOTA3MzY4ODQwMjY1NzY5.XoxFqg.qdCFQ8Wqxl2KC-OHBX5aNjSSY5Y",
+  "prefix": "mu ",
+  "owner": "682990667328389186",
+  "YOUTUBE_API_KEY": "AIzaSyBBKXvGI5odHAoJrQpl8gQOSYNCtKIJEUQ",
+  "mongo_atlas": {
+      "username": "",
+      "password": "",
+      "cluster": "",
+      "shard": {
+          "one": "",
+          "two": "",
+          "three": "" 
+      }
+  }
+}
